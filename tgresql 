@@ -1,0 +1,799 @@
+
+Found 791 roles matching your search:
+
+ Name                                                 Description
+ ----                                                 -----------
+ 0x5a17ed.ansible_role_netbox                         Installs and configures NetBox, a DCIM suite, in a production setting.
+ 0x_peace.postgres                                    PostgreSQL role
+ 5u623l20.pgsql                                       PostgreSQL server for *nix alike OS.
+ aadl.evergreenils_database                           Role for Evergreen ILS Database Provisioning
+ aalaesar.backup_nextcloud                            Create a backup of your nextcloud server with this ansible role
+ aalaesar.install_nextcloud                           Install Nextcloud server like you want ! Apache2 or Nginx ? MariaDB or PostgresQL ? You choose, you watch, it works !
+ aalaesar.upgrade-nextcloud                           Upgrade an Nextcloud instance in your infrastructure. The role manages backup and CLI upgrade.
+ aaronpederson.aws-infrastructure                     aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context.
+ aaronpederson.postgresql                             PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.
+ aboveops.ct_postgres                                 Ansible role deploys PostgreSQL container
+ adipriyantobpn.repo-pgdg                             Common tasks to manage PostgreSQL PGDG Yum repository
+ aehlke.postgresql                                    Upstream PostgreSQL server
+ AerisCloud.collectd                                  This role takes care of adding collectd to any given server
+ AerisCloud.librato                                   Install and configure the Librato Agent
+ AerisCloud.repos                                     Manage CentOS yum and Debian apt repositories
+ ageres210784.ansible_walg                            This role is for install wal-g
+ ahelal.concourse                                     Install Concourse CI
+ alainvanhoof.alpine_mariadb                          MariaDB for Alpine Linux
+ alainvanhoof.alpine_postgresql                       PostgreSQL for Alpine Linux
+ alainvanhoof.alpine_powerdns                         PowerDNS for Alpine Linux
+ alexey-medvedchikov.barman                           Role for PostgreSQL Backup and Restore manager -- barman
+ alexey-medvedchikov.pgbouncer                        Role for PostgreSQL connection pooler PgBouncer
+ alexey-medvedchikov.pgpool2                          Role for PostgreSQL load balancer and replication system pgpool2
+ alexey-medvedchikov.repmgr                           Role for repomgr PostgreSQL replication administration utility
+ alexgluck.postgresql                                 PostgreSQL server for Linux. Install, configure, remove, databases and users.
+ alikins.php_pgsql                                    PHP PostgreSQL support for Linux.
+ alikins.postgresql                                   PostgreSQL server for Linux.
+ almaops.ct_postgres                                  Ansible role for deploying PostgreSQL container
+ AlphaHydrae.postgresql-dev                           Installs PostgreSQL for development.
+ AlphaNodes.backup                                    Run daily backups for files, MySQL databases and PostgreSQL databases
+ AlphaNodes.barman                                    Setup barman and run backup with barman
+ AlphaNodes.postgresql                                PostgreSQL server for Debian and Ubuntu.
+ AlphaNodes.postgresql_client                         PostgreSQL client for Debian and Ubuntu.
+ AlphaNodes.project_sync                              Sync database and files between environments
+ AlphaNodes.redmine_task                              Run Redmine rake tasks (receive mails, reminder, helpdesk mailer, recur-tasks)
+ alvistack.postgres                                   Ansible Role for PostgreSQL Installation
+ amarao.flyway                                        Install flyway command line tool from www.flywaydb.org
+ amaudy.ansible_postgresql                            your role description
+ amnay-mo.postgresql                                  A role to install and setup PostgreSQL 9.x Streaming Replication on Debian/RedHat/CentOS/Scientific/Oracle Enterprise Linux.
+ andrchalov.ansible-role-docker-postgres              Configuring and running PostgreSQL docker container.
+ andrchalov.ansible-role-pgver                        Ansible role for versioning PostgreSQL database
+ andrchalov.ansible_role_postgresql                   PostgreSQL server for Ubuntu.
+ andrelohmann.postgresql                              ansible galaxy role to install postgresql and configure users, databases and access
+ andrewrothstein.pgo                                  installs the pgo client
+ ansible.django-gulp-nginx                            Ansible Container Django demo
+ ansible.django-template                              An Ansible Container project template for Django
+ ansiblebit.postgresql-server                         Role for PostgreSQL server on MacOSX.
+ ansible-bookcase.setup_postgres                      Role for installing PostgreSQL.
+ ansible-city.postgresql                              Install Postgresql server
+ ansibleguy.infra_django_apache                       Role to deploy one or multiple django sites using apache2 to host them
+ ansibleguy.sw_proxmox_mail_gw                        Ansible role to deploy Proxmox Mail Gateway on a linux server
+ ansibleplaybookbundle.hello-world-apb                Deploys hello-world web application in OpenShift/Kubernetes
+ Anthony25.ansible_postgresql                         Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ antmelekhin.jira                                     An Ansible role for install, configure and update Jira.
+ ANXS.postgresql                                      Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ aorashi.patroni                                      An Ansible role which installs and configures Patroni - HA solution for PostgreSQL
+ apham0001.pure_ftpd                                  Pure-FTPd for Debian/Ubuntu
+ apollo13.borgbackup                                  Configure Borgbackup on EL/Ubuntu/Debian. With support for clients & servers, as well as borgbase.com.
+ arBmind.ansible-rails                                Out sink-tank for modules and playbooks that help to deploy Ruby on Rails applications
+ arbouin-consulting.atlassian-confluence              Ansible rols which installs and configures a basic Atlassian Confluence Installation
+ arctiqjacob.ansible_role_boundary                    Ansible role to deploy a HashiCorp Boundary cluster
+ artem_shestakov.postgres_exporter                    Install Prometheus PostgreSQL Exporter
+ artem_shestakov.postgresql                           The role to install PostgeSQL cluster
+ aruhier.ansible_postgresql                           Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ asabaini.redash                                      Install Redash analysis platform connected to a remote database
+ asagage.tower                                        Ansible Tower
+ ashiwa.zabbix-server                                 Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ ashiwa.zabbix-web                                    Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
+ astsu777.ansible_role_database                       Install and secure MariaDB server
+ atb00ker.matrix-synapse                              Install matrix-synapse homeserver (Setup Personal homeserver for clients like riot.im)
+ aussielunix.netbox                                   Ansible role for setting up netbox.
+ auxilincom.drone                                     Drone CI deployment with Github integration and PostgreSQL database
+ aviatrix.postgresql                                  PostgreSQL server for Linux.
+ ayltai.instrumentald                                 Install and configure InstrumentalD on RHEL/CentOS-based and Ubuntu systems
+ azavea.postgresql                                    An Ansible role for installing PostgreSQL.
+ azavea.postgresql-support                            An Ansible role for installing libraries that support PostgreSQL Ansible modules.
+ b00ga.repo_pgdg                                      Install PGDG repository
+ barm0leykin.postgres_deploy                          Install PotgresSQL
+ bas-ansible-roles-collection.php5-ext-postgresql9    Bridging role to use PHP 5 with PostgreSQL databases
+ bas-ansible-roles-collection.postgresql9-client      Installs client tools and libraries for PostgreSQL
+ bas-ansible-roles-collection.postgresql9-ext-postgis PostGIS extension for PostgreSQL to enable geospatial functions
+ bas-ansible-roles-collection.postgresql9-server      Installs and configures PostgreSQL server
+ bbaassssiiee.wso2db                                  Run external database tasks for WSO2 API-M
+ bbatsche.PostgreSQL                                  Simple role to install and secure default version of PostgreSQL on Ubuntu
+ bcduggan.rt                                          Install Request Tracker
+ bcoe.pg-failover                                     Install PostgreSQL along with components required for automatic failover.
+ bcook254.vaultwarden                                 Vaultwarden (Bitwarden_rs) installation for Linux.
+ bdellegrazie.postgres_exporter                       Role to install Prometheus PostgreSQL Exporter
+ bearandgiraffe.postgresql                            Installs and configures PostgreSQL
+ bingo_soft.postgresql                                Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ bitfinity-nl.app_postgresql                          PostgreSQL database server
+ bitfinity-nl.app_savapage                            Open Print Portal
+ bjoernalbers.dcm4chee                                Install DCM4CHEE Archive v5 on Ubuntu Linux
+ blazingbarons.postgresql                             Ansible PostgreSQL Role
+ bngsudheer.redmine                                   Install Redmine on CentOS
+ bobishh.pgpool2                                      Role for PostgreSQL load balancer and replication system pgpool2
+ bodsch.telegraf                                      ansible role to setup telegraf
+ boreboar.k3s                                         Ansible role for installing k3s as either a standalone server or HA cluster
+ bpresles.postgresql                                  PostgreSQL server for Linux.
+ brachetti.ansible_drone                              Drone CI deployment with Github integration and PostgreSQL database
+ buluma.collectd                                      Install and configure collectd on your system.
+ buluma.confluence                                    Ansible Role for Atlassian Confluence Installation
+ buluma.gitlab                                        Install and configure GitLab on your system.
+ buluma.gitlab_ce                                     Ansible Role for GitLab CE Installation.
+ buluma.gitlab_ee                                     Ansible Role for GitLab EE Installation
+ buluma.jira                                          Ansible Role for Atlassian Jira Installation
+ buluma.matrix-synapse-auto-deploy                    Ansible playbook for managing a matrix node with synapse and riot
+ buluma.postgres                                      Install and configure postgres on your system.
+ buluma.sonarqube                                     An Ansible Role that install SonarQube.
+ call_learning.moodle                                 Moodle CentOS/Debian/Ubuntu.
+ calvinbui.ansible_postgres_docker                    Postgres in a Docker container
+ calvinchengx.postgresql                              Postgresql for archlinux
+ cameronwickes.matrix_automation                      An Ansible role to automate the installation and configuration of a Matrix Synapse server to create secure organisational communication channels.
+ cans.pg-db                                           A simple role to create Postgres roles and databases from a given list
+ capitanh.sonar_ansible_role                          This role installs sonarqube
+ cdriehuys.rds-postgres                               Role for provisioning a PostgreSQL database on RDS.
+ cesnet.postgresql                                    Installs PostgreSQL server
+ cesnet.unattended_upgrades                           Installs unattended-upgrades
+ cetic.alfresco                                       Alfresco community
+ cetic.postgresql                                     PostgreSQL server for Linux.
+ chalasr.ansible-role-apt                             Handle apt
+ chenyb888.postgresql                                 PostgreSQL server for Linux.
+ cherts.zabbix_agent_dbmon                            Installing and maintaining zabbix-agent-dbmon for RedHat/Ubuntu
+ china-awifi.clustercontrol                           ClusterControl for RHEL/CentOS and Debian/Ubuntu.
+ chouseknecht.pgclone                                 Using pg_basebackup clone a PostgreSQL cluster from a remote host.
+ chriscroome.postgresql                               Ansible role to install PostgreSQL on Debian and optionally create a user and database
+ chriscroome.synapse                                  Ansible role to install, configure and upgrade the matrix protocol server, synapse.
+ christophershoemaker.vault-provision                 Ansible module for Hashicorp Vault provisioning
+ cimon-io.backup                                      Install and configure backup gem
+ cimon-io.dependent-software                          Install dependent software
+ cimon-io.gobackup                                    Install and configure gobackup
+ cimon-io.postgresql                                  Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ cimon-io.postgresql-client                           install postgresql-client package
+ cimon-io.systemd-service                             Create and configure a systemd service
+ City-of-Bloomington.postgresql                       Role for configuring Postgresql on Ubuntu
+ clusterfrak.postgresql                               Role to install Postgresql
+ cmacrae.common                                       An ansible role to manage miscellaneous types of data/resources/constructs in an ad-hoc fashion.
+ codeyourinfra.postgres                               Role to install PostgreSQL
+ collivier.xtesting                                   Xtesting have leveraged on Functest efforts to provide a reference testing
+framework. To learn more about Xtesting:
+http://xtesting.readthedocs.io/en/latest/
+ colstrom.postgresql                                  PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.
+ computate.computate_postgres                         Install PostgreSQL server for development
+ conatel_digital_hub.run_awx                          Ansible role to run AWX on top of Docker Compose
+ conatel_digital_hub.run_postgres                     Ansible role to run a PostgreSQL database on top of Docker Compose
+ consensys.web3signer                                 Web3Signer is an open-source signing service developed under the Apache 2.0 license and written in Java.
+ coopdevs.backups_role                                Backups strategy for Coopdevs projects.
+ coopdevs.monitoring_role                             Install Prometheus and Loki exporters to monitor your project instances
+ coopdevs.odoo-role                                   Odoo 10+ provisioning role
+ CourseOrchestra.backup_pg                            Cron task for db backup
+ covid19_pirat.pirat_tool                             Install the Pandemic Important Resource Allocation Tool (PIRAT)
+ criecm.netmagis                                      netmagis DHCP/DNS/... web frontend
+ criecm.postgresql                                    postgresql server + DBs
+ CyVerse-Ansible.ansible_k3s                          This role will install a single or multi-cluster k3s, with the option of installing with postgresql. At this time, this is not suppose to be a comprehensive k3s, but rather a role sufficient for CyVerse's needs
+ czarny445.postgresql                                 Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ d3atiq.elasticsearch_svr                             An Ansible role to install elasticsearch on Ubuntu server.
+ d3atiq.postgresql_svr                                An Ansible role to install Postgres latest versions on Ubuntu.
+ d4gh0s7.postgres_dump                                Ansible role designed to run a full postgresql database dump leveraging the pg_dumpall command.
+ Dalee.install-postgresql                             PostgreSQL 9.4 for Vagrant and Docker
+ Dalee.install_postgresql96                           PostgreSQL 9.6 for Vagrant and Docker
+ dalibo.repo_dalibo_labs                              Dalibo Labs Repository for RHEL/Debian systems
+ damianlewis.octobercms                               Installs and configures October CMS.
+ dan-aksenov.postgresql                               Setup basic PostgreSQL 9+ configurations on CentOS Linux.
+ dan-aksenov.tomcat                                   Tomcat installation and basic setup.
+ danieloh30.rhamt                                     Red Hat Application Migration Toolkit
+ DataDog.datadog                                      Install Datadog agent and configure checks
+ datadog-galaxy.sonarqube                             SonarQube provision role
+ davidalger.stackdriver                               Install the Stackdriver agent and configure its plugins.
+ dba_ray.postgresql                                   Automatically deploy the latest version of mysql based on local installation files, and config mgr architecture and one master and two slave architecture.
+ dbertha.barman2                                      Ansible role to install and configure Barman for postgresql backups and recovery. Compatible with version 2.0 to use streaming replication
+ dblenkus.postgresql                                  Install and configure PostgreSQL on CentOS 7 server.
+ dborisov.postgresql                                  Ansible role to install PostgreSQL
+ derekmerck.orthanc_docker                            Configure and run an [Orthanc](https://www.orthanc-server.com) DICOM node in a Docker container
+ devoinc.systemd_service                              Create and configure a systemd service
+ dgnest.postgresql                                    A role for installing and configuring PostgreSQL
+ dhach.pirat_tool                                     Install the Pandemic Important Resource Allocation Tool (PIRAT)
+ dinivas.postgres                                     PostgreSQL server.
+ dirkcaumueller.postgresql                            PostgreSQL server for CentOS 7
+ dirn.psql                                            Installs PostgreSQL.
+ dixon629.bamboo                                      Install Atlassian Bamboo
+ dj-wasabi.zabbix-proxy                               Installing and maintaining zabbix-proxy for RedHat/Debian/Ubuntu.
+ dj-wasabi.zabbix-server                              Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ dj-wasabi.zabbix-web                                 Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
+ dkuji.miracle_zabbix_server                          Ansible Role to install a miracle_zabbix_server on CentOS8 Linux.
+ dlcoder.postgresql                                   Ansible role for installing and configure postgresql.
+ dmaes.bitwardenrs                                    Builds, installs and configures Bitwarden_RS (https://github.com/dani-garcia/bitwarden_rs) (without Docker)
+ dmaes.vaultwarden                                    Builds, installs and configures Vaultwarden (https://github.com/dani-garcia/vaultwarden) (without Docker)
+ dmc5179.ansible_role_quay_single_node                Role to deploy Red Hat quay on a single RHEL node
+ dockpack.artifactory                                 JFrog Repository manager
+ dockpack.base_postgres                               PostgreSQL on one or two Centos/RHEL boxes.
+ dockpack.sonar                                       SonarQube - Source code quality tool
+ domenblenkus.backup                                  Ansible role for backing up folders and databases.
+ dresden-weekly.Rails                                 Out sink-tank for modules and playbooks that help to deploy Ruby on Rails applications
+ driescruyskens.postgresql_14_amazon_linux_2          Installs and configures PostgreSQL 14 on Amazon Linux 2
+ dubzland.postfix                                     Postfix for Debian
+ dubzland.postgres                                    PostgreSQL server for Debian
+ dubzland.proxmox                                     PostgreSQL server for Debian
+ dudefellah.pgbackrest                                Install and configure pgbackrest
+ dudefellah.postgresql                                Install, configure and prepare a PostgreSQL server.
+ dudefellah.postgresql_replication                    Configure replication on your PostreSQL servers.
+ dulin.ansible-zabbix-web                             Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
+ Duologic.postgresql_repository                       Install Postgresql repositories.
+ Duologic.sentry                                      Sentry installation with Python.
+ dylancwood.debian-pgbouncer                          Ansible role to install and configure pgbouncer (connection pooling serivce for PostgreSQL) on Debian and Ubuntu
+ dymurray.postgresql-apb                              An APB that deploys PostgreSQL
+ dynatrace.Dynatrace-Server                           An Ansible role for automated deployments of the Dynatrace Server.
+ e1mo.ansible_role_synapse                            install a synapse homeserver
+ e1mo.mailman                                         Ansible role to install and configure mailman
+ ecaepp.ansible_role_misp                             Role for creating and setting up base MISP server
+ egeneralov.jfrog_artifactory                         Install jfrog artifactory
+ egeneralov.postgresql                                Provision postgresql server installation
+ egeneralov.postgresql_repository                     Provision postgresql repository
+ egeneralov.timescaledb                               Provide timescaledb installation
+ egeneralov.zabbix_proxy                              Provision zabbix proxy installation
+ egeneralov.zabbix_userparameter_postgresql           Provision zabbix monitoring for postgresql
+ elan.opencast_postgresql                             Install and prepare PostgreSQL for Opencast
+ elao.postgresql                                      A PostgreSQL role for elao symfony standard vagrant box
+ elnur.postgresql                                     PostgreSQL
+ em0lar.keycloak_postgres                             Keycloak with postgresql for systemd managed systems.
+ em0lar.pretix                                        An ansible role to install pretix via pip
+ emmetog.ansible_role_barman                          Ansible role which installs and configures barman by 2ndQuadrant
+ emmetog.zabbix-proxy                                 Installing and maintaining zabbix-proxy for RedHat/Debian/Ubuntu.
+ enix.postgresql                                      Ansible role to deploy postgresql software
+ enix.postgresql_replication                          Ansible role to deploy postgresql software with replication
+ enix.timescaledb                                     Ansible role to deploy timescaledb software
+ enlitic.postgresql                                   Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ enrise.postgresql                                    An Ansible role for installing and configuring PostgreSQL.
+ erkax.netbox                                         Netbox 1.8.3 for Redhat7 - CentOS7
+ eugene_krivosheyev.artifactory                       The simpliest Ansible role for JFrog Artifactory OSS 7 hosts that works with Ubuntu 19.10.
+ eumel8.otc_rds                                       Ansible Role for Open Telekom Cloud
+ eusebium.pgpool2                                     Install and configure pgpool2
+ evogalaxy.postgresql                                 Installation and basic configuration of PostgreSQL
+ executive-consultants-of-los-angeles.r-sum-          Displays information about my skill set and experience.
+ expeto.ansible_role_bdr_postgresql94                 Fully automatic role to install PostgreSQL 9.4 BDR on RedHat/CentOS systems and joins them to same cluster
+ fede2cr.alfresco52                                   Alfresco52 install and upgrade role
+ fede2cr.alfresco_ansible                             Alfresco52 install and upgrade role
+ fidanf.ansible_role_barman                           Ansible role which installs and configures barman by 2ndQuadrant
+ fidanf.postgresql_ha                                 Install and configure PostgreSQL cluster managed with repmgr. Add dependencies, extensions, databases and users.
+ flipp3r90.repmgr                                     Replication manager for PostgreSQL
+ f-s-v.postgresql-database                            Creates postgresql database.
+ f-s-v.postgresql-server                              Installs postgresql server.
+ galaxyproject.cloudman-database                      Setup a PostgreSQL database for Galaxy CloudMan
+ galaxyproject.galaxy                                 Install and manage a Galaxy (http://galaxyproject.org/) server.
+ galaxyproject.mailman3                               Mailman 3 installation, configuration, and management for Linux
+ galaxyproject.postgresql                             Install and manage a PostgreSQL (http://www.postgresql.org/) server.
+ galaxyproject.postgresql_objects                     Configure PostgreSQL objects: users (roles), databases, and privileges
+ galaxyproject.proftpd                                Install and Configure ProFTPD (optionally, for Galaxy Servers).
+ galaxyproject.telegraf_cvmfs                         Configure PostgreSQL objects: users (roles), databases, and privileges
+ galaxyproject.tiaas2                                 Install and manage a TIaaS instance (https://github.com/usegalaxy-eu/ansible-tiaas2)
+ gcoop-libre.pure-ftpd                                Pure-FTPd for Debian/Ubuntu
+ geerlingguy.php-pgsql                                PHP PostgreSQL support for Linux.
+ geerlingguy.postgresql                               PostgreSQL server for Linux.
+ genialis.postgresql                                  Role to install and configure PostgreSQL database on RHEL/CentOS
+ GeoNode.geonode                                      An Ansible Role for Installing GeoNode
+ giner.barman                                         Install and configure Barman on Linux with optional: metrics collection (telegraf), regular snapshots (cron) and uploading to S3 (cron)
+ gites.ansible-powerdns                               Installs and configures PowerDNS
+ gmazoyer.netbox                                      A role to install and update NetBox.
+ gmazoyer.peering_manager                             A role to install and update Peering Manager.
+ goldstrike77.ansible_role_linux_postgresql           your description
+ GoodMirek.proftpd                                    Install and Configure ProFTPD, including SFTP
+ gotofbi.postgresql                                   PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.
+ grim-fendango.postgresql                             Install Postgresql server
+ grofers.barman                                       Ansible role which installs and configures barman by 2ndQuadrant
+ guzmonne.run_postgres                                TDM
+ gwenlei.rails-postgresql                             install rails
+ h0nell.percona_postgresql                            your role description
+ hamidyousefi.postgresql                              PostgreSQL
+ HauptJ.openresty                                     Installs OpenResty Nginx
+ hermanops.ansible_role_dsmrreader                    Install dsmr-reader (v3) onto your Raspberry Pi with Raspbian or Ubuntu.
+ hifis.gitlab                                         Install and configure official GitLab Omnibus package
+ hiiyl.ansible_role_pgbouncer                         PgBouncer connection pooler for Ubuntu
+ hispanico.install_nextcloud                          Add a new Nextcloud instance in your infrastructure. The role manages dependencies and initial configuration.
+ honatas.postgresql_dev                               PPA Installation of PostgreSQL with remote access enabled. Suited for development, works nicely on Vagrant boxes.
+ honzamach.certified                                  Ansible role for managing certificates on all target servers.
+ honzamach.commonenv                                  Ansible role for maintaining common environment on all target systems.
+ honzamach.griffin                                    Ansible role for convenient installation of the Griffin monitoring stack.
+ honzamach.griffin_watchee                            Ansible role for convenient installation of the client node for the Griffin monitoring stack.
+ honzamach.mentat                                     Ansible role for convenient installation of the Mentat IDS and SIEM system.
+ honzamach.mentat_dev                                 Ansible role for convenient installation of the Mentat IDS and SIEM system - development version.
+ honzamach.monitored                                  Ansible role for configuring Nagios NRPE monitoring on all target systems.
+ honzamach.postgresql                                 Ansible role for convenient installation of the PostgreSQL database.
+ honzamach.warden_client                              Ansible role for convenient installation of the Warden client library and filer utility.
+ hostwithquantum.postgresql                           PostgreSQL server for CentOS 7
+ hubzhangxj.postgresql                                your description
+ hudecof.gitlab                                       Gitlab Omnibuss install and configuration
+ hypebeast.flaskapp                                   Provisioning and deploy Flask applications
+ i2biz.postgres-init                                  Creates databases and users on postgresql server.
+ idealista.keycloak_role                              Keycloak Role
+ idealista.postgresql_role                            postgreSQL role
+ idealista.sentry_role                                Sentry
+ idealista.superset_role                              Superset Role
+ idealista.timescaledb_role                           Timescaledb Role
+ IDR.redmine_tracker                                  IDR submission ticketing system
+ imcitius.ansible_wal_g_config                        Config wal-g environment and backup scripts
+ indigo-dc.galaxycloud                                Install Galaxy workflow manager (production environment) on CentOS7 + postresql, nginx, uwsgi, proftpd
+ infOpen.postgresql                                   Ansible role to manage Postgresql install and configuration
+ informaticsmatters.infrastructure_data               Configure an infastructure database
+ infra_monkey.motd                                    Configure motd based on host-info facts
+ infra_monkey.postgresql_backup                       Configure periodic backup of postgresql database
+ inmotionhosting.nextcloud                            Modular Ansible Role for deploying and configuring Nextcloud
+ inmotionhosting.postgresql                           Modular Ansible Role for deploying and configuring PostgreSQL
+ innohub-ansible.barman                               Tasks for PostgreSQL barman
+ insspb.postgresql                                    This role will install and configure Postgre SQL server and client.
+ ioannis1.pg_compiler                                 compile postgres from sources for any official release.
+ ioannis1.pg_config                                   configuration of postgresql roles, databases, extensions, privs
+ ioannis1.pg_initdb                                   configuration of postgresql roles, databases, extensions, privs
+ iomarmochtar.privacyidea                             Privacyidea installation & configuration
+ irontooch.postgresql                                 Installs a single Postgresql database to support an Application. Makes a user and sets that user to own the database
+ iroquoisorg.postgresql                               role for postgresql
+ iTeV.ansible-nextcloud                               Role that installs nextcloud, a open source, self-hosted file share and communication platform.
+ ivansible.ast_core                                   deploy asterisk server on linux
+ ivansible.cert_cloudflare                            letsencrypt certbot with cloudflare wildcard challenge
+ ivansible.cert_copy                                  setup local certbot with copy of certificates from master
+ ivansible.cert_replica                               configure certbot replica to receive new letsencrypt certificates from master
+ ivansible.db_base                                    common database connection parameters
+ ivansible.srv_postgres                               install postgresql-10 server on linux
+ jacoelho.postgresql                                  Postgresql
+ jas02.postgresql                                     Ansible PostgreSQL Installation
+ jaywink.ansible_dendrite                             Deploy a Dendrite Matrix server using Docker.
+ jaywink.diaspora                                     diaspora* open source social network server.
+ jaywink.socialhome                                   Socialhome federated social networking server.
+ jeazyee.hestiacp                                     This ansible role lets you install hestiacp, add desired php versions, and create a hostname certificate in one rush.
+ jehadnasser.postgresql                               Install postgresql
+ jellevandehaterd.postgresql                          your description
+ jensneirynck.zabbixserver                            Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ jenstimmerman.vaultwarden                            Builds, installs and configures Vaultwarden (https://github.com/dani-garcia/vaultwarden) (without Docker)
+ jetune.bitbucket                                     Ansible Role for Atlassian Bitbucket Installation [Fork From Wong Hoi Sing Edison]
+ jetune.confluence                                    Ansible Role for Atlassian Confluence Installation
+ jetune.jira                                          Ansible Role for Atlassian JIRA Installation [Fork From Wong Hoi Sing Edison]
+ jetune.sonarqube                                     Ansible Role for Sonarqube Installation [Fork From IRK]
+ jkglasbrenner.aiida                                  AiiDA is a flexible and scalable informatics' infrastructure to manage, preserve, and disseminate the simulations, data, and workflows of modern-day computational science.
+ jlozadad.update_reboot                               yum update and reboot
+ jmcvetta.sentry                                      Deploy Sentry server
+ jobscore.postgresql                                  An Ansible role for installing PostgreSQL from source on an Ubuntu box
+ jony321.ansible_vaultwarden                          Run Vaultwarden passwords vault with postgresql backend.
+ jorikvandamme.drupal_webserver_ansible               LEPP stack with Drupal frontend (for premade drupal sites)
+ JorisAndrade.backupmanager                           Install and configure backupmanager and cron to send to s3 bucket
+ jpnewman.artifactory                                 Artifactory
+ jradtilbrook.pgbouncer                               PgBouncer connection pooler for Ubuntu
+ jsecchiero.patroni                                   An Ansible role which installs and configures Patroni - HA solution for PostgreSQL
+ jsecchiero.postgresql-slave-init                     Prepare a postgresql slave to join into a postgresql cluster
+ j-tanaka.zabbix-server                               Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ j-tanaka.zabbix-web                                  Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
+ jtyr.artifactory                                     A role that installs Artifactory
+ jtyr.bacula_director                                 Role which installs the Bacula Director
+ jtyr.bacula_storage                                  Role which installs the Bacula Storage
+ jtyr.gerrit                                          A role that installs Gerrit.
+ jtyr.postgresql                                      A role that installs PostreSQL server
+ jtyr.pulp_repos                                      Ansible role which helps to manage Pulp repos in semi-automated way.
+ jtyr.rattic                                          A role that installs Rattic
+ jtyr.sonarqube                                       An Ansible role that installs SonarQube.
+ jtyr.zabbix_proxy                                    A role that installs Zabbix Proxy
+ juju4.ansible-role-postgresql                        PostgreSQL server for Linux.
+ juju4.icinga2                                        Icinga2
+ juju4.mig_postgres                                   Mozilla Investi Gator - Postgres server
+ juju4.mig_scheduler                                  Mozilla Investi Gator - Scheduler server
+ juju4.scumblr                                        Netflix scumblr install
+ juju4.zentral                                        Zentral, framework to gather, process, and monitor system events and link them to an inventory
+ jvoss.nautobot                                       Installs and configures Nautobot
+ jvoss.netbox                                         Installs and configures Netbox
+ k0st1an.psql                                         Deploy PostgreSQL
+ kal3v.musicbrainzdb-from-scratch                     The MusicBrainz database from scratch
+ kal3v.postgresql-from-source                         PostgreSQL from source with almost default configuration
+ KAMI911.hugepages                                    Huge page settings for applications like Java, PostgreSQL and MySQL
+ karimchtourou.postgres                               PostgreSQL server.
+ kbcz1989.ansible_role_postgresql_repo                Postgres repositories for Linux
+ kbrebanov.postgresql                                 Installs PostgreSQL
+ kbrebanov.powerdns                                   Installs and configures PowerDNS
+ kevincoakley.ansible_role_pg_stat_statements         Installs the pg_stat_statements extension for PostgreSQL 10
+ kevincoakley.ansible_role_pgstattuple                Installs the pgstattuple extension for PostgreSQL 10
+ kevincoakley.ansible-role-postgis                    Install the PostGIS extension for Postgresql - https://postgis.net/
+ kevincoakley.citus                                   Install Postgresql Citus Community Edition (single machine and clustered) - https://www.citusdata.com/
+ kevincoakley.pg_partman                              Installs the pg_partman partition management extension for PostgreSQL 10
+ kevincoakley.plpython                                Install the plython extenstion for PostgreSQL
+ khouloudsma.ansible_role_postgresql                  PostgreSQL server for Linux.
+ khusnetdinov.provisioner                             Ansible role witch provision production enviroment for linux (Ubunty) server. Creates deploy user, sets timezone, locales, create swap file. Prepare PostgreSQL, Redis, Nginx, Logrotate, folders for capistrano and other tools.
+ killerwails.aws-infrastructure                       aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context.
+ kjartab.postgresql                                   Software Developer
+ klewan.ansible_role_postgresql                       PostgreSQL Common Role
+ klewan.ansible_role_postgresql_dbsw_compile          PostgreSQL source code compliation
+ klewan.ansible_role_postgresql_host                  Database Server Configuration
+ klewan.ansible_role_postgresql_host_cron             Manage PostgreSQL Database Server cron
+ klewan.ansible_role_postgresql_instance              PostgreSQL instance (cluster) management
+ klewan.ansible_role_postgresql_nagios                Manage Nagios monitoring for a PostgreSQL instance
+ klewan.ansible_role_postgresql_nsr_backup            EMC Networker backup configuration for PostgreSQL databases
+ klewan.ansible_role_postgresql_role_transition       Manage PostgreSQL Role Transitions (Switchover and Failover)
+ kmonticolo.ansible_zabbix_proxy                      Installing and maintaining zabbix-proxy for RedHat/Debian/Ubuntu.
+ kmonticolo.pgsql_replication                         Configure PostgreSQL replication between two nodes
+ kmonticolo.postgresql_replication                    Ansible role to deploy postgresql software with replication
+ kosalaat.postgres_cluster                            your description
+ kostiantyn-nemchenko.patroni                         An Ansible role which installs and configures Patroni - HA solution for PostgreSQL
+ kostiantyn-nemchenko.postgresql                      An Ansible role which installs and configures PostgreSQL - the world's most advanced open source database
+ kostyrevaa.koji-db                                   Configures DB for Koji
+ ktibi.ansible_role_postgresql                        PostgreSQL server for Linux.
+ kuon.postgresql                                      PostgreSQL role for ansible (CentOS)
+ kurron.sql-developer                                 IDE and tools a SQL developer needs.
+ kyxap1.pgpool2                                       Role for PostgreSQL load balancer and replication system pgpool2
+ l00ptr.postgresql                                    PostgreSQL server for Linux.
+ labpositiva.postgresql                               A role for installing and configuring PostgreSQL
+ lafranceinsoumise.backup                             Backup system. Files, dirs, databases. Upload to clouds.
+ larmar.alfresco                                      this role will install Alfresco on destination host. This role is created to work with Rundeck.
+ laurivan.outline                                     Outline Docker
+ laurivan.plausible                                   Plausible installation via docker
+ laxathom.jira                                        Ansible role to install and manage JIRA Server
+ leadlineit.bareos_dir                                Install and configure Bareos Director Daemon
+ leadlineit.postgresql                                Install and configure PostgreSQL Server 14
+ leafnode.backup                                      role to backup data
+ leafnode.backup_restore                              role to restore data from backup
+ leafnode.backup_verification                         role to verify backup
+ leafnode.postgresql                                  role for postgresql
+ lean_delivery.postgresql                             Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ lean_delivery.sonarqube                              Lean Delivery SonarQube server install
+ leandroembu.ansible_role_dokku_nextcloud             This role helps to deploy NextCloud using Dokku on Debian
+ leandroramos.ansible_role_dokku_nextcloud            This role helps to deploy NextCloud using Dokku on Debian
+ lefilament.ansible_role_odoo_docker                  Role for deploying Odoo Community Edition on Docker
+ lejmr.postgresql                                     PostgreSQL server for Linux.
+ lemonde.ansible_postgresql                           Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ lerminou.ansible_role_postgresql                     PostgreSQL server for Linux.
+ lesovsky.postgresql94-bdr                            A role to install and setup PostgreSQL 9.4 Bi-Directional replication on RedHat/CentOS Enterprise Linux.
+ lesovsky.postgresql-on-el6                           A role to install PostgreSQL 8.4/9.x on RedHat/CentOS/Scientific/Oracle Enterprise Linux.
+ lesovsky.postgresql-streaming-replication            A role to install and setup PostgreSQL 9.x Streaming Replication on RedHat/CentOS/Scientific/Oracle Enterprise Linux.
+ levonet.docker_postgres                              Manage and run the PostgreSQL docker container.
+ librato.librato                                      Install and configure the Librato Agent
+ libre_ops.metabase                                   Metabase provisioning role
+ libre_ops.wal2json                                   wal2json provisioning role
+ limepepper.zabbix_server                             Install zabbix-server, and optionally configure users, notifications
+ lordoftheflies.ansible_role_postgresql               Ansible Galaxy role for maintain Postgresql.
+ lotusnoir.apps_postgresql_backup                     Install script to backup postgresql databases
+ lotusnoir.apps_postgresql_exporter                   Install and configure postgresql exporter metrics for prometheus
+ louwandre90.postgres                                 Ansible script to install postgres
+ lrk.flyway                                           An Ansible Role that install Flyway Command-line Tool.
+ lrk.postgresql                                       Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ lrk.sonarqube                                        An Ansible Role that install SonarQube.
+ lucasmaurice.filebeat                                Filebeat for Linux.
+ luismayta.ansible_role_postgresql                    A role for installing and configuring PostgreSQL
+ luismayta.ansible_role_supervisor                    Ansible role to install supervisor
+ LukeT.LukeT_PostgreSQL                               PostgreSQL install and config
+ lullis.postgresql                                    Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ m3nu.ansible_role_borgbackup                         Set up backup to remote machine using Borg and Borgmatic.
+ mach1el.ansible_postgresql                           Auto deploying for postgresql
+ Madic-.matrix-synapse-auto-deploy                    Ansible playbook for managing a matrix node with synapse and riot
+ madonius.matrix_ansible_synapse                      Deploys a synapse server
+ mahdi22.postgresql                                   Install and configure Postgresql server on Rhel/CentOS, Debian, Ubuntu and SUSE SLES ditributions
+ manala.apt                                           Handle apt
+ manala.phppgadmin                                    Handle phppgadmin
+ manala.postgresql                                    Handle postgresql
+ manics.ansible-role-postgresql                       Upstream PostgreSQL server
+ manics.ansible-role-prometheus-postgres              Prometheus Postgres exporter
+ manics.omero_server                                  Install and configure OMERO.server, and optionally PostgreSQL
+ manics.postgresql_backup                             Setup a cron job for regular full PostgreSQL database dumps
+ manics.postgresql_client                             Upstream PostgreSQL client
+ manics.redmine_tracker                               IDR submission ticketing system
+ marcusianlevine.rename-database                      Create, rename, and swap databases on a remote database server (currently only PostgreSQL)
+ mariancraciun1983.postgres_repmgr_ha                 Configure PostgreSQL, Repmgr for High Availability and automated load balancing with HAProxy, Corosync and Pacemaker
+ martinrusev.devopsium                                Ansible Role for syncing official/community repositories for popular packages
+ marvel-nccr.aiida                                    An ansible role that installs and configures [AiiDA](http://www.aiida.net/) on Ubuntu, RHEL, CentOS and Fedora.
+ marvel-nccr.aiida_cws                                An Ansible role that installs and configures an environment for running the AiiDA common-workflows
+ matic-insurance.docker-postgres                      Manage and run the PostgreSQL docker container.
+ mattdupuy.keycloak                                   Keycloak for systemd managed systems.
+ mbaran0v.ansible_role_gem_backup                     Easy full stack backup operations on UNIX-like systems http://backup.github.io/backup/v4/
+ mbaran0v.ansible_role_pgbouncer                      Prometheus PgBouncer exporter https://github.com/spreaker/prometheus-pgbouncer-exporter
+ mbaran0v.ansible_role_prometheus_postgres_exporter   Prometheus PostgreSQl Exporter https://github.com/wrouesnel/postgres_exporter
+ mcmegavolt.rails_deploy                              Deploy and monitor rails applications
+ meantheory.postgresql                                
+ mediafellows.postgresql                              Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ meka.postgresql                                      PostgreSQL role
+ mescanef.zabbix-server                               Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ MetaSyntactical.mattermost                           Mattermost installation and configuration.
+ MichaelRigart.gags                                   An ansible role for installing and configuring Gogs.
+ MichaelRigart.mysql                                  An ansible role for installing and configuring Postgresql client / server
+ MichaelRigart.postgresql                             An ansible role for installing and configuring Postgresql client / server
+ micko920.role_postgresql                             PostgreSQL server for Linux.
+ MicroJoe.ttrss                                       TinyTinyRSS role for nginx with letsencrypt support
+ micropyramid.postgresql                              Ansible script to install Postgresql over Ubuntu server.
+ miguelenes.zabbix-server                             Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ miguelenes.zabbix-web                                Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
+ miguelisaza95.ansible_role_postgresql                PostgreSQL server for Linux.
+ mikedep333.ansible_role_postgresql                   PostgreSQL server for Linux.
+ MikePadge.collectd                                   Install and configure collectd on your system.
+ MikePadge.postgres                                   Install and configure postgres on your system.
+ MikePadge.postgresql                                 PostgreSQL server for Linux.
+ mikysal78.freeradius                                 Install FreeRADIUS 3
+ milliams.ovirt_ansible_vm_infra                      Role to manage virtual machine infrastructure in oVirt.
+ mivek.nextcloud                                      This role installs and configure Nextcloud on a server.
+ mivek.pgbackrest                                     This role installs and configures pgbackrest
+ mivek.postgresql                                     PostgreSQL server for Linux.
+ mjallday.postgresql                                  Ansible role to configure PostgreSQL
+ mjcramer.concourse-worker                            Ansible role for installing common components for Concourse CI
+ mjcramer.postgresql                                  Ansible role for installing a PostgreSQL database
+ mm0.mattermost                                       Mattermost installation and configuration.
+ mnecas.ovirt_ansible_vm_infra                        Role to manage virtual machine infrastructure in oVirt.
+ mrdatamapper.akademiano_postgresql                   postgresql role for linux os
+ mrdatamapper.postgresql_facts                        akademiano_postgresql_facts
+ mrlesmithjr.opennms                                  Installs and configures OpenNMS http://www.opennms.org/
+ mrlesmithjr.postgresql                               An Ansible role to install/configure Postgresql
+ ms_27.ansible_role_postgresql                        your role description
+ mschenone.aws-infrastructure                         aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context.
+ mstantoncook.postgresql                              Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ mtangaro.galaxycloud                                 Install Galaxy workflow manager (production environment) on CentOS7 + postresql, nginx, uwsgi, proftpd
+ muellert.on_gitea                                    install gitea
+ mushroomlabs.hub20                                   Installs and sets up all hub20 services in any Debian-based linux distro
+ musicglue.postgresql                                 Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ mwolff44.freeswitch-mw                               FreeSwitch installation and management
+ mykola42.install_nextcloud                           Add a new Nextcloud instance in your infrastructure. The role manages dependencies and initial configuration.
+ myrostadler.centos7_symfony4_website                 Install a Symfony4 website from a git repo on Centos7
+ n0emis.synapse                                       install a synapse homeserver
+ natefoo.postgresql_objects                           Configure PostgreSQL objects: users (roles), databases, and privileges
+ nekeal.postgresql_db                                 Ansible role for setting up postgresql server, users and databases
+ nephelaiio.k8s                                       Ansible role to bootstrap k8s cluster deployment
+ nephelaiio.metricbeat                                An Ansible role to install and configure metricbeat
+ nephosolutions.postgresql                            "Install and configure PostgreSQL, dependencies, extensions, databases and users."
+"Forked from https://github.com/ANXS/postgresql"
+ New-Edge-Engineering.rundeck                         installation and configuration of rundeck
+ newtonne.backup                                      Backup files, and MySQL and PostgreSQL databases using borg and borgmatic.
+ newtonne.duply-backup                                Backup files and databases using Duply (Duplicity).
+ nginxinc.nginx_controller_install                    Official Ansible role for installing NGINX Controller
+ nickjj.postgres                                      Install a bare bones version of postgresql.
+ nikaro.postgresql-bdr                                my description
+ NLCR.postgresql                                      your description
+ NLCR.sentry                                          your description
+ nolte.k3s                                            Ansible role for installing k3s as either a standalone server or HA cluster
+ noplanman.ansible-nextcloud-upgrade                  Upgrade an Nextcloud instance in your infrastructure. The role manages backup and CLI upgrade.
+ noplanman.apt_extra_sources                          Add extra repository sources on a Debian-like system.
+ noplanman.lutim                                      Install and run Lutim on a Debian-like system.
+ noplanman.nextcloud                                  Add a new Nextcloud instance in your infrastructure. The role manages dependencies and initial configuration.
+ notpixxl.postgresqlprivs                             Set PostgreSQL Privileges
+ nqngo.maas_snap                                      Ansible role to install and configure Ubuntu MAAS via snap.
+ nycrecords.postgresql                                PostgreSQL server for Linux.
+ oasis_roles.jbosseap                                 Install and configure Red Hat JBoss EAP
+ octarine.postgresql                                  Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ olo-dw.ansible_role_squash_tm                        Squash-TM Installation
+ ome.devspace                                         Install and configure OMERO.server, OMERO.web and optionally PostgreSQL
+ ome.omero_server                                     Install and configure OMERO.server, and optionally PostgreSQL
+ ome.postgresql                                       Upstream PostgreSQL server
+ ome.postgresql_backup                                Setup a cron job for regular full PostgreSQL database dumps
+ ome.postgresql_client                                Upstream PostgreSQL client
+ ome.prometheus_postgres                              Prometheus Postgres exporter
+ onaio.courier                                        Installs and configures Courier. Courier is a messaging gateway for text-based messaging channels.
+ onaio.rapidpro_indexer                               Installs and configures RapidPro Indexer, a simple service for indexing RapidPro contacts into ElasticSearch.
+ onaio.sqitch_migrations                              Simple role to run database migrations using sqitch
+ onelove-roles.freebsd_postgresql                     PostgreSQL for FreeBSD machines/jails
+ oneoffadmins.ansible_role_telemetry_server           InfluxDB and Grafana as a monitoring solution
+ ONLYOFFICE.documentserver                            ONLYOFFICE Document Server is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real 
+ ontic.postgresql                                     This role installs PostgreSQL on RedHat/CentOS and Debian/Ubuntu Linux servers.
+ openmicroscopy.ansible-role-prometheus-postgres      Prometheus Postgres exporter
+ openmicroscopy.devspace                              Install and configure OMERO.server, OMERO.web and optionally PostgreSQL
+ openmicroscopy.omero-server                          Install and configure OMERO.server, and optionally PostgreSQL
+ openmicroscopy.postgresql                            Upstream PostgreSQL server
+ openmicroscopy.postgresql_backup                     Setup a cron job for regular full PostgreSQL database dumps
+ openwisp.openwisp2                                   Official role to install and upgrade openwisp2 controller
+ opsta.ansible_sentry                                 your description
+ opsta.postgresql                                     Ansible role to install and config PostgreSQL
+ opstree_devops.percona_postgresql                    Install and configure Postgresql
+ opstree_devops.postgresql                            Install and configure postgresql
+ organicveggie.pgadmin_docker                         Role to install pgAdmin Docker container on Linux.
+ organicveggie.postgres_docker                        Role to install PostgreSQL Docker container on Linux.
+ oscbco.install_postgresql                            Role for installing PostgreSQL
+ oscbco.restore_database                              Role for restoring data of a postgresql database
+ Oslandia.postgis3d                                   This role installs Postgis with 3D capabilities (sfcgal) plus pointcloud and PDAL
+ ovirt.engine-setup                                   Role to run engine-setup.
+ ovirt.remote_db                                      Role to install oVirt DB on remote machine
+ ovirt.vm-infra                                       Role to manage virtual machine infrastructure in oVirt.
+ p0bailey.postgresql                                  Postgresql installation and setup.
+ pablerass.postgres-db                                
+ pablerass.postgres-server                            Postgresql server.
+ pacifica.ansible_pacifica                            Pacifica Ansible Role
+ pacifica.ansible_travis                              Travis Role to deploy Pacifica in Travis
+ palkan.postgresql                                    Install PostreSQL
+ papanito.ttrss                                       Role for simplified git repo handling
+ paperless_ngx.paperless_ngx                          Ansible role to install paperless-ngx
+ paprikant.beacon                                     beacon-python with postgres database
+ paralect.drone                                       Drone CI deployment with Github integration and PostgreSQL database
+ pascal_splotches.sentry                              Sentry installation with Python.
+ patrik.uytterhoeven.PostgreSQL-For-RHEL6x            Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ patrik.uytterhoeven.Zabbix_Server                    
+ paulRbr.ansible_postgresql_role                      Install, configure and manage PostgreSQL clusters
+ paulrbr_fl.ansible_clever                            Love and trucks
+ pellegrino.ansible_concourse                         Concourse CI. CI that scales with your project.
+ peschmae.postgresql_backup                           Postgres backups on linux
+ pescobar.postgres                                    Install postgres database and create db and user
+ phansible.pgsql                                      An Ansible Role that installs PostgreSQL on Ubuntu specifically created with Phansible in mind.
+ phansible.postgresql                                 
+ pieterlexis.mattermost                               Ansible role for Mattermost
+ pieterlexis.pdns-ansible                             PowerDNS Authoritative Server role
+ pilou-.postgresql                                    Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ pkorobeinikov.postgresql                             Postgresql installation.
+ plumelo.cabot                                        Install Cabot
+ pmoscode.wikijs                                      Install and configure Wiki.js with Ansible
+ PowerDNS.pdns                                        Install and configure the PowerDNS Authoritative DNS Server
+ pulse-mind.postgresql                                Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ punkrokk.ansible_st2                                 Install StackStorm (IFTTT for Ops) with all the components like Web UI, ChatOps, EWC and dependant services including RabbitMQ, MongoDB, PostgreSQL, nginx.
+ quocvu.postgresql                                    Deploy Postgresql RDBMS to an ArchLinux or OSX server
+ raben2.nextcloud                                     Install nextcloud with postgresql backend
+ raben2.postgres                                      Role for PostgreSQL load balancer and replication system pgpool2
+ ralexsander.idempiere_ansible                        iDempiere ERP
+ ramiroto.postgresql_10                               Role for installing PostgreSQL 10
+ reallyenglish.ansible-role-postgresql                
+ redhat-cop.jcliff                                    Installs the jcliff module
+ remi_filament.ansible_role_owncloud                  Role for deploying Owncloud (not maintained anymore)
+ repleo.django-app                                    Ansible role for installing a Django based web application including uwsgi, postgresql and nginx
+ repleo.postgresql                                    Ansible role for installing and configuring a postgresql database
+ repleo.zabbix-server                                 Ansible role for installing zabbix monitoring server
+ respheal.nextcloud                                   Modular Ansible Role for deploying and configuring Nextcloud
+ respheal.postgresql                                  Modular Ansible Role for deploying and configuring PostgreSQL
+ rhops.centos-mirrors                                 Configure software mirrors for CentOS 7
+ rhops.postgresql-repo                                Configure PostgreSQL upstream YUM repository
+ rickapichairuk.basic-server-setup                    Ansible Role to do basic setup of an ubuntu server
+ rickapichairuk.rails-app-server-role                 Ansible Role to do basic setup of an ubuntu server
+ riponbanik.foreman                                   Install and Configure Foreman
+ rits1902.redash                                      ansible role for redash
+ rmachuca89.ansible_postgresql                        PostgreSQL Database
+ rm-software.django                                   Django web, task and/or geat app installation
+ rm-software.postgresql                               Postgresql client and server installations
+ robertdebock.awx                                     Install and configure AWX on your system.
+ robertdebock.collectd                                Install and configure collectd on your system.
+ robertdebock.gitlab                                  Install and configure GitLab on your system.
+ roboticpuppies.teleport                              Install Teleport Access Plane
+ roderik.superlumic-postgresql                        Ansible role to install and configure Postgresql on OSX. This role is part of the Superlumic project that aims to simplify repeat computer setups on OSX, 10.10 and up.
+ rolehippie.keycloak                                  Ansible role to install and configure Keycloak identity service
+ rolehippie.postgresql                                Ansible role to install and configure a simple PostgreSQL
+ roquie.ansible-db-restore                            Restore database-dumps from file or connection to server.
+ roquie.postgresql                                    PostgreSQL server for Linux.
+ rothgar.PostgreSQL_Server                            Install PostgreSQL using Ansible
+ r_pufky.db                                           Database Server
+ rremizov.unattended_upgrades                         Configure unattended upgrades and apticron on Debian Linux
+ rtshome.pgsql                                        Add four modules to interact with PostgreSQL DBMS: postgresql_table, postgresql_row, postgresql_query, postgresql_command.
+ RuntimeLLC.postgresql                                Simple PostgreSQL role
+ rustamsultanov.postgresql                            Installs and configures PostgreSQL 10 on CentOS 7
+ sabre1041.jcliff                                     Installs the jcliff module
+ samdoran.pgsql_replication                           Configure PostgreSQL replication between two or more nodes
+ SANBI-SA.galaxy                                      Install and manage a Galaxy (http://galaxyproject.org/) server.
+ SANBI-SA.postgresql-objects                          Configure PostgreSQL objects: users (roles), databases, and privileges
+ sanpii.postgresql_conf                               Modify the postgresql configuration
+ sansible.postgresql                                  Install Postgresql Server
+ sansible.rabbitmq                                    RabbitMQ installation and configuration
+ sardpost.zabbix3_server                              Zabbix Server 3 installation on RHEL/Centos 7
+ sbesson.ansible-role-devspace                        Install and configure OMERO.server, OMERO.web and optionally PostgreSQL
+ sbesson.omero_server                                 Install and configure OMERO.server, and optionally PostgreSQL
+ sbesson.postgresql                                   Upstream PostgreSQL server
+ sbesson.postgresql_backup                            Setup a cron job for regular full PostgreSQL database dumps
+ sbesson.prometheus_postgres                          Prometheus Postgres exporter
+ scce.dywa                                            Install and configure DyWA with PostgreSQL as database backend and Nginx as proxy
+ scottd018.foreman_tuning                             Large Scale Tunables for Foreman/Satellite 6
+ sebalix.odoo                                         Ansible role to install Odoo from a Git or Mercurial repository, and configure it.
+ sebalix.kallithea                                    Ansible role to install Kallithea and configure it.
+ sebalix.openerp                                      Ansible role to install OpenERP from a Git or Mercurial repository, and configure it.
+ sebalix.postgresql                                   Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ sebix.hockeypuck                                     Installing and setting up the Hockeypuck OpenPGP key server
+ sergiosdlima.postgresql-on-el6                       A role to install PostgreSQL 8.4/9.x on RedHat/CentOS/Scientific/Oracle Enterprise Linux.
+ serlophug.postgresql                                 Install PostgresSQL 9.6(min 9.3)
+ severalnines.clustercontrol                          ClusterControl for RHEL/CentOS and Debian/Ubuntu.
+ sfromm.postgresql                                    Role to manage PostgreSQL
+ sgrinko.mamonsu                                      Install mamonsu (monitoring agent for PostgreSQL from PostgresPro company)
+ ShadeySecurity.restyaboard-ansible                   A replacement ansible playbook for install bash
+ ShadowKoBolt.postgresql                              ansible postgresql role
+ Silencerco.postgresql                                Postgresql installation.
+ silverlogic.postgresql                               Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ SimpliField.postgres                                 Setup postgres
+ skoneka.anxs-postgresql                              Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ slundi.ansible_joal                                  your role description
+ s_newman.ansible_postgresql                          Installs and configures a PostgreSQL database.
+ softasap.sa_borg_server                              Installs borg server
+ softasap.sa_box_vestacp                              Installs opensource vestacp control panel
+ softasap.sa-dev-pgweb                                pgweb - Web-based PostgreSQL database browser written in Go.
+ softasap.sa-gitlab-ce                                installs standalone gitlab according to manual steps
+ softasap.sa-postgres                                 Installs postgresql, app user, optionally patches listen address and trusted networks.
+ softasap.sa-postgres-workplace                       postgresql console helpers
+ softasap.sa-teamcity                                 Installs teamcity, continious integration server from Jetbrains
+ solutionDrive.zammad                                 Install and configure zammad (see https://zammad.org )
+ sorrowless.pdns_ansible                              Install and configure the PowerDNS Authoritative DNS Server
+ sorrowless.postgresql                                Ansible role to work with Postgresql
+ sprylab.tomcat-ubuntu                                Tomcat 8 - latest official .deb packages from the Ubuntu Package archive
+ ssilab.postgres                                      Installs/configures the specified version of PostgreSQL and creates the specified list of databases.
+ ssube.build-tools                                    create a k8s cluster with CI tools
+ stampay.postgresql                                   Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ steamulo.backupmanager                               Install and configure backupmanager
+ stevehouel.postgresql-role                           Ansible galaxy role used to run a postgres docker instance on machine
+ stevehouel.sonar-role                                Ansible galaxy role used to deploy a Sonar docker instance connected to a given postgreSQL instance
+ stevenengland.paperless_ngx                          Ansible role to install paperless-ngx
+ stevenharradine.postgresql                           PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.
+ stevenharradine.rsyslog                              Install and configures rsyslog for client, server and relay (client/server)
+ Stouts.backup                                        Backup system. Files, dirs, databases. Upload to clouds.
+ Stouts.wale                                          Perform continuous archiving of PostgreSQL WAL files
+ straylight-project.netbox-app                        Straylight is a collection of open-source projects to simplify the deployment of technical infrastructure needed to automate network management.
+ straylight-project.netbox-web                        Straylight is a collection of open-source projects to simplify the deployment of technical infrastructure needed to automate network management.
+ stuvusIT.confluence                                  Install Confluence and generate configuration files
+ stuvusIT.icingaweb2                                  Set up an Icingaweb2 installation
+ stuvusIT.jira                                        Install JIRA and generate configuration files
+ stuvusIT.pdns-authoritative                          Install and configure an authoritative PowerDNS server
+ stuvusIT.postgresql                                  Set up a PostgreSQL server
+ supertarto.postgresql                                Install and configure postgresql.
+ supertarto.wikijs                                    Install and configure Wiki.js with Ansible
+ swcc.ansible_nextcloud                               Install and configure Nextcloud
+ systemli.etherpad                                    role to maintain and configure etherpad lite
+ t2d.ansible_role_documentserver                      ONLYOFFICE Document Server is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real 
+ t_book.ansible_geonode                               An Ansible Role for Installing GeoNode
+ teachbase-ansible.postgresql                         Install PostreSQL
+ teemo.stackdriver_ansible_role                       Install the Stackdriver agent and configure its plugins.
+ telusdigital.aws-infrastructure                      aws-infrastructure builds out things according to seemingly arbitrary conventions. They probably make sense, in the appropriate context.
+ telusdigital.postgresql                              PostgreSQL is a powerful, open source object-relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.
+ theatro.ansible_st2                                  Install StackStorm (IFTTT for Ops) with all the components like Web UI, ChatOps, EWC and dependant services including RabbitMQ, MongoDB, PostgreSQL, nginx.
+ thedumbtechguy.postgresql                            Install and manage Postgres for Linux.
+ thedumbtechguy.tds-fdw                               tds_fdw for Linux.
+ themaniskshah.ansible_datadog_role                   Install Datadog agent and configure checks
+ themimitoof.ansible_role_netbox                      Installs and configures NetBox, a DCIM suite, in a production setting.
+ thermistor.postgresql                                Configure postgresql
+ thoth-station.postgresql                             This role will deploy PostgreSQL and related components used by Thoth into OpenShift.
+ thoth-station.postgresql_metrics_exporter            This role will deploy PostgreSQL metrics-exporter into OpenShift.
+ thulium_drake.netbox                                 Netbox installation
+ thulium_drake.semaphore                              Ansible Semaphore
+ thulium_drake.zabbix_agent                           Zabbix agent
+ timorunge.pmm_client                                 Percona PMM Client for Debian and RedHat based distributions
+ tjanez.postgresql                                    Role to install and configure PostgreSQL database on RHEL/CentOS
+ tjcim.ansible-docker-postgres                        Provisions and runs postgres in a docker container
+ tjtoml.postgresql                                    PostgreSQL installation for Linux.
+ tjuberg.pdns_ansible                                 Install and configure the PowerDNS Authoritative DNS Server
+ tkanemoto.owncloud                                   ownCloud
+ tobias.bell.tt-rss                                   Creates a tt-rss instance using PostgreSQL
+ tobiasehlert.ansible_zabbix_web                      Installing and maintaining zabbix-web for RedHat/Debian/Ubuntu.
+ tobiasehlert.teslamate                               TeslaMate installation inside Docker with docker-compose
+ tobybro.psql                                         Install postgesql client libraries such as psql.
+ traff-ik.postgresql                                  
+ trainline-eu.ansible_barman_role                     Install and configure Barman, a Postgresql backup manager
+ trainline-eu.ansible_postgresql_role                 Install, configure and manage PostgreSQL clusters
+ tranquilit.waptserver                                WAPT Server install for Debian/CentOS
+ trantienduchn.postgres_ansible                       Simple ansible postgres master/slave setup
+ trombik.fab_manager                                  Configures fab-manager
+ trombik.icingaweb2                                   Configures icingaweb2
+ trombik.php                                          Manage php
+ trombik.postgresql                                   Manage PostgreSQL
+ trombik.zabbix_server                                Configures zabbix-server
+ troykinsella.concourse                               Concourse CI. CI that scales with your project.
+ tulibraries.ansible_role_postgresql                  PostgreSQL server for Linux.
+ Turgon37.postgresql_server                           This role install and configure PostgreSQL server
+ tutkarma.ansible_postgresql_role                     PostreSQL 10 Server Installation For CentOS 7
+ tuykin.mac-dev-playbook                              This role instals local dev environment on macOS (RoR + PostgreSQL).
+ ubermensh.docker-compose-gitea                       Creates a https gitea server, deploys agitea and postgresql with docker-compose as connected services, nginx as proxy pass to gitea
+ UCLALibrary.uclalib_role_postgresql                  your role description
+ ucsblibrary.fedora-marmotta                          Install Fedora and Marmotta under Tomcat
+ ucsdlib.postgresql                                   Role to manage PostgreSQL
+ udelarinterior.ansible_tryton                        Role to install and configure Tryton with ansible
+ udelarinterior.ansible_zabbix_server                 Installing and maintaining zabbix-server for RedHat/Debian/Ubuntu.
+ udelarinterior.backuppc_client                       Install and manage BackupPC Client
+ udelarinterior.matrix_synapse                        Role to install and configure Matrix Synapse server from source
+ udelarinterior.sympa                                 Insert description here
+ ufz.zammad                                           Install Zammad helpdesk on Linux.
+ uoi-io.horizon                                       Deploy and configure OpenStack Horizon dashboard
+ uridium.sonarqube                                    Install and configure SonarQube - a service for continuous inspection of code quality and static analysis.
+ usegalaxy_eu.tiaas2                                  Install and manage a TIaaS instance (https://github.com/usegalaxy-eu/ansible-tiaas2)
+ usmanatron.backup_postgresql                         Backup PostgreSQL database
+ usmanatron.freshrss                                  Ansible role to install FreshRSS
+ usmanatron.traccar                                   Install Traccar
+ v01ddweller.postgresql_install                       Install PostgreSQL on EL 7
+ v0rts.postgresql                                     PostgreSQL server for Linux.
+ Vaizard.mage_postgresql                              Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ vandman.yum_conf_repository                          Setup yum repos
+ vbotka.freebsd_mailserver_roundcube                  FreeBSD. Install and configure Roundcube webmail.
+ vermilion_tech.ansible_role_docker_postgresql        Docker PostgreSQL
+ VerosK.icinga2                                       Icinga2
+ VerosK.icinga2-ido-pgsql                             Icinga2 - IDO add-on
+ VerosK.pgdg                                          Setup PostgreSQL PGDG repo
+ VerosK.postgresql                                    Ansible Role for PostgreSQL Installation.
+ veselahouba.autopostgresqlbackup                     Ansible role for installing https://github.com/k0lter/autopostgresqlbackup
+ veselahouba.bareos                                   Role for managing bareos server & clients
+ veselahouba.patroni                                  An Ansible role which installs and configures Patroni - HA solution for PostgreSQL
+ viafcccy.role_init                                   Initialization And Random Password
+ vitabaks.pgcenter                                    Install pgcenter (command-line admin tool for observing and troubleshooting PostgreSQL)
+ vitabaks.postgresql_cluster                          PostgreSQL High-Availability Cluster (based on Patroni)
+ vitalied.postgresql                                  Ansible Role for PostgreSQL Installation.
+ vitalied.postgresql-vhosts                           Ansible Role for PostgreSQL VirtualHost Management.
+ vladkarok.geo_db                                     role for database server on Centos 7 and PostgreSQL
+ watchdogpolska.watchdogpolska_duply                  your description
+ waynesun09.reportportal_openshift                    Deploy ReportPortal v5 services and dependencies on OpenShift
+ wietmann.walg                                        Setup and manage WAL-G PostgreSQL backup tool
+ winggundamth.pdns-ansible                            PowerDNS Authoritative Server role
+ wluisaraujo.postgresql                               Infrastructure as Code (IaC) with Ansible role for Install PostgreSQL
+ wolfbo.install_postgresql-server                     install the PostgreSQL Server Package
+ wolfeidau.postgresql                                 Installs and configures the PostgreSQL.
+ WolfgangPecho.my-ans-pg                              Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ WolfgangPecho.postgresql                             Install and configure PostgreSQL, dependencies, extensions, databases and users.
+ xanmanning.k3s                                       Ansible role for installing k3s as either a standalone server or HA cluster
+ xtimon.postgresql                                    Simple PostgreSQL role
+ xtream1101.mattermost                                Role to deploy Mattermost
+ yanehi.patroni                                       Patroni with Postgresql12 for CentOS 7
+ yanehi.postgresql                                    PostgreSQL server for CentOS 7
+ yilativs.postgresql_tuning                           Tunes existing postgresql service (similar to pgtune)
+ ypid.ansible-owncloud                                Install and manage ownCloud instance
+ yurihs.postgres_backup                               Backup PostgreSQL databases
+ zaiste.postgresql                                    Ansible role that installs PostgreSQL for Ubuntu Xenial from the official APT.
+ ZandaGo.zabbix-server                                Installing and maintaining zabbix-server for RedHat.
+ zenoamaro.postgresql                                 A role for installing and configuring PostgreSQL
+ zeppelinen.ansible-zabbix-agent                      Installing and maintaining zabbix-agent for RedHat/Debian/Ubuntu.
+ znz.zabbix                                           Zabbix with postgresql
+ zorlin.patroni                                       An Ansible role which installs and configures Patroni - HA solution for PostgreSQL
